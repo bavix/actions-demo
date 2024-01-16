@@ -10,4 +10,4 @@ jobs:
   update:
     permissions:
       contents: write
-    uses: bavix/.github/.github/workflows/update-changelog.yml@master
+    uses: bavix/.github/.github/workflows/changelog.yml@master
