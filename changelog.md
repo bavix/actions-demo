@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.6 - 2024-01-16
+
+**Full Changelog**: https://github.com/bavix/actions-demo/compare/v0.0.5...v0.0.6
+
 ## v0.0.4 - 2024-01-16
 
 ### What's Changed
